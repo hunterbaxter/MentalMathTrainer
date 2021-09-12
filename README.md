@@ -1,14 +1,19 @@
 # Mental Math Trainer
 
-## Run Trainer ```python3.10 MentalMathTrainer```
+## run trainer in terminal emulator
+```
+python3.10 MentalMathTrainer.py
+```
 
-## [Change Settings](settings.py)
+## [change settings](settings.py)
 
 Modifiable Options are:
+
     - time limit
+    
     - feedback
 
-## [Change Difficulty](difficulty.py)
+## [change difficulty](difficulty.py)
 
-## Prerequisites
-Requires python 3.10
+## prerequisites
+requires python 3.10
